@@ -2,3 +2,13 @@
 2. Write a Python program to get the largest number from a list.
 3. Write a Python program to clone or copy item in a list.
 4. Write a Python program to access the index of an element present in a list.
+
+
+
+
+Submisssion: 
+
+Subject: Python Assignment Solution of FSDS with GenAI 
+
+send to boktiar@ineuron.ai 
+keep in cc query@ineuron.ai
