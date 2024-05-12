@@ -27,11 +27,9 @@ logger = logging.getLogger("mylog")
 def add_number(a,b):
     out = a + b
     logger.info("Successfully executed")
-    print()
 
     return out
 
 
 num = add_number(3,4)
 print(num)
-logger.info("code excuted")
